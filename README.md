@@ -40,26 +40,29 @@ Use John the Ripper to crack the hashes:
 
 
 ## OUTPUT:
+![df1](https://github.com/user-attachments/assets/d924d10f-cc50-4d53-a2db-34305e09ac1c)
 
+![ddf2](https://github.com/user-attachments/assets/43cfe218-f425-41f5-a6c4-8e75b78262ec)
+![df3](https://github.com/user-attachments/assets/3732f02f-ad33-4030-9916-21c9be1831b8)
 
 ### Create a Password-Protected ZIP File
-![K1 6](https://github.com/user-attachments/assets/a560773d-37ec-4c6a-99c6-b2863d364347)
+![df4](https://github.com/user-attachments/assets/d637b2c2-bbe7-406f-82d9-c4e029316a4a)
+
 
 
 ### Extract the Hash from the ZIP File
 
-![K2 6](https://github.com/user-attachments/assets/ec1efd6e-8931-49b7-8a9b-9a62e6d28b1c)
+
+![df5](https://github.com/user-attachments/assets/8cedb80d-f84a-406f-86ff-b5a6d3824456)
 
 
 
 ### Crack the ZIP Password using John
-![K3 6](https://github.com/user-attachments/assets/b53e0192-9663-4eef-bf74-3998493f51a7)
-
-![K4 6](https://github.com/user-attachments/assets/a4191db2-9e9d-4bd4-9b23-2a4bb61448c9)
+![df6](https://github.com/user-attachments/assets/4356e733-90d2-4b7c-82a1-bab5bc91dbc7)
 
 ### Show the Cracked Password
+![df7](https://github.com/user-attachments/assets/d98e9bab-61d6-4ff3-bc79-82d699c080e8)
 
-![K5 6](https://github.com/user-attachments/assets/01aa290c-10c5-49b1-aaa2-84bac8b9178b)
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
